@@ -68,43 +68,5 @@ here we used switch case to break
 
 
 output
-1.Create
- 2.Display
- 3.Raise salary
- 4.Exit
-1
-Enter name:
-NAVYA
-Enter age:
-21
-Enter salary:
-2300
-Enter Designation:
-XYZ
-1.Create
- 2.Display
- 3.Raise salary
- 4.Exit
+![image](https://user-images.githubusercontent.com/76723039/118112410-95bc1e00-b402-11eb-9722-f9574aecfe9e.png)
 
-  
-2
-Name:NAVYA
-Age:21
-Salary:2300.0
-Designation:XYZ
-1.Create
- 2.Display
- 3.Raise salary
- 4.Exit
-3
-Salary 3300.0
-Salary raised by 1000
-1.Create
- 2.Display
- 3.Raise salary
- 4.Exit
-4
-exit from program
-
-
-   
