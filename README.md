@@ -25,10 +25,15 @@ job=sc.next();
 The below one logic for Raise in salary
 raisedSalary() which is used to increase the salary 
 
-![image](https://user-images.githubusercontent.com/76723039/118109116-63a8bd00-b3fe-11eb-86a3-43da859ddbd1.png)
 
 
-
+void raisedSalary()
+{
+ sal=sal+1000;
+System.out.println("Salary "+sal);
+System.out.println("Salary raised by 1000");
+}
+}
 
 
 we are repeating the logic for our choice
