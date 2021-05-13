@@ -4,7 +4,10 @@ In Bussiness logic we have given the properties like name,age,salary and designa
 Here we are printing Create,Display,Salary,Exit whenever program execute and 
 The below one is the logic to read  dynamic inputs
 
-/*  Scanner sc=new Scanner(System.in);
+
+
+
+ Scanner sc=new Scanner(System.in);
 public void create()
 {
 
@@ -19,7 +22,9 @@ sal=sc.nextInt();
 
 System.out.println("Enter Designation:");
 job=sc.next();
-}  */
+} 
+
+
 The below one logic for Raise in salary
 raisedSalary() which is used to increase the salary 
 
