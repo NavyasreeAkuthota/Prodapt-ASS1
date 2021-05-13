@@ -36,11 +36,19 @@ System.out.println("Salary raised by 1000");
 }
 
 
+
 we are repeating the logic for our choice
 and also we are raising salary
 as a choice 
 here we used switch case to break 
 
+
+
+public class Kavya
+{
+public static void main(String[] args)
+{
+Emp e=new Emp();
 while(true)
 {
 Scanner sc=new Scanner(System.in);
@@ -56,6 +64,8 @@ case 2: e.display();
         break;
 case 3: e.raisedSalary();
         break;
+
+}
 
 
 
