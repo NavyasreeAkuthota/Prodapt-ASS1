@@ -90,7 +90,10 @@ XYZ
  3.Raise salary
  4.Exit
 
-
+   String name;
+  int age;
+  double sal;
+  String job;
 2
 Name:NAVYA
 Age:21
