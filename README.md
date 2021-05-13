@@ -4,7 +4,6 @@ In Bussiness logic we have given the properties like name,age,salary and designa
 Here we are printing Create,Display,Salary,Exit whenever program execute and 
 The below one is the logic to read  dynamic inputs
 
-
 Scanner sc=new Scanner(System.in);
 public void create()
 {
@@ -22,24 +21,21 @@ System.out.println("Enter Designation:");
 job=sc.next();
 }
 
- 
 
 The below one logic for Raise in salary
 raisedSalary() which is used to increase the salary 
 
+![image](https://user-images.githubusercontent.com/76723039/118109116-63a8bd00-b3fe-11eb-86a3-43da859ddbd1.png)
 
-void raisedSalary()
-{
- sal=sal+1000;
-System.out.println("Salary "+sal);
-System.out.println("Salary raised by 1000");
-}
-}
-And in the main method we  are creating a object and we are repeating the logic for our choice
+
+
+
+
+we are repeating the logic for our choice
 and also we are raising salary
 as a choice 
 here we used switch case to break 
-/*
+
 while(true)
 {
 Scanner sc=new Scanner(System.in);
@@ -55,8 +51,9 @@ case 2: e.display();
         break;
 case 3: e.raisedSalary();
         break;
-}
-*/
+
+
+
 
 
 output
